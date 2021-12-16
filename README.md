@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ritik
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on HTML and CSS
+- 🌱 I’m currently learning the latest technologies in my work field.
+- 💞️ I’m looking to collaborate on HTML, CSS and JavaScript.
 - 📫 How to reach me https://www.linkedin.com/in/ritik-nagarkoti-38b936170
 
 <!---
